@@ -1,0 +1,2 @@
+This repo contains the final Capstone project for the Beats By Dre Consumer Insights & Data Analytics Externship. I applied various data analysis techniques to analyze & extract customer reviews, ultimately resulting in the creation of data driven insights regarding the performance of newly released Beats speakers.
+The final project encapsulated multiple skills, such as Exploratory Data Analysis (EDA), Data Visualization, Sentiment Analysis, & implementation of Google Gemini to generate recommendations based on consumer sentiment.
